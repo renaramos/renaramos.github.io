@@ -19,5 +19,3 @@ permissions:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-theme: jekyll-theme-cayman
