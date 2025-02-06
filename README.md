@@ -1,7 +1,8 @@
-# 4 anos da melhor escolha da minha vida!
+# 4 anos com o amor da minha vida
 Oi meu amor, 4 anos atrás eu não podia imaginar que estariamos onde estamos, mas sou muito grata por tudo que passamos juntos até o dia de hoje. Desde o início do nosso relacionamento você quer me ensinar a programar e hoje 4 anos depois, eu programei. Ta bem tosco, mas assisti vídeos e li varios websites para te fazer essa surpresa!
 
-on:
+Não posso te garantir a melhor qualidade, mas garanto que fiz com todo o amor do mundo. Eu te amo meu amor e espero que você goste dessa viagem pelos nossos 4 anos de história!
+
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
