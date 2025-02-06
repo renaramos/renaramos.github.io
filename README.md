@@ -3,11 +3,11 @@ Oi meu amor, 4 anos atrás eu não podia imaginar que estariamos onde estamos, m
 
 Não posso te garantir a melhor qualidade, mas garanto que fiz com todo o amor do mundo. Eu te amo meu amor e espero que você goste dessa viagem pelos nossos 4 anos de história!
 
-  # Carta aberta para Você 
+# Carta aberta para Você 
   push:
     branches: ["main"]
 
-  # Como esse site vai funcionar:
+# Como esse site vai funcionar:
   workflow_dispatch:
 
 # Prmeira Pergunta
@@ -19,3 +19,5 @@ permissions:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+theme: jekyll-theme-cayman
